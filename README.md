@@ -2,7 +2,7 @@ Medical Insurance Cost Prediction Using Machine Learning
 Predicting healthcare costs is a critical task for both insurers and policyholders. In this , I walk through building a machine learning model to predict medical insurance charges based on key personal attributes. The project utilizes Python, Pandas, and Scikit-learn to perform data analysis and model training.
 ________________________________________
 Dataset Overview
-We used the publicly available Medical Cost Personal Datasets containing demographic data of individuals, including:
+I  used the publicly available Medical Cost Personal Datasets containing demographic data of individuals, including:
 •	Age: Age of primary beneficiary
 •	Sex: Gender (male/female)
 •	BMI: Body mass index
